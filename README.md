@@ -1,0 +1,1 @@
+To run for your file, edit the `data_file` variable in main. You can also change the output directory and name. The plots are saved as a PDF which you then could put into a LaTeX file or print them out to look at how pretty they are.
